@@ -1,0 +1,8 @@
+{
+  "name": "Remix FitAI Coach",
+  "description": "AI-powered personal trainer mobile app for muscle gain, fat loss, workouts, diet planning, and fitness tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
